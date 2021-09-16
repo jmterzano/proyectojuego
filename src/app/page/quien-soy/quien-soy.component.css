@@ -1,0 +1,10 @@
+body{
+    background-color: violet;
+}
+
+.imagen{
+    background-color: red;
+    margin:10px auto;
+    display:block;
+    padding:3px;
+}

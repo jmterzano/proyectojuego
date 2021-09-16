@@ -1,0 +1,10 @@
+<div>
+    <h1>Login!</h1>
+    <input placeholder="Usuario" #user type="text">
+    <input placeholder="Contraseña" #pass type="password">
+
+    <button (click)="login(user.value, pass.value)" >Login</button>
+    <button (click)="registrar(user.value, pass.value)">Registar</button>
+    <button (click)="auth.logOut()">Salir</button>
+
+</div>

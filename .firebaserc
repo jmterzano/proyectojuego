@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sala-juegos-cd842": {
+      "hosting": {
+        "proyecto-sala-juegos": [
+          "sala-juegos-cd842"
+        ]
+      }
+    }
+  }
+}
